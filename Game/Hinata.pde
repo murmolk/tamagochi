@@ -5,7 +5,8 @@
 */
 public class Hinata
 {
-  PImage img; // Texture de Hinata
+  /** Texture de Hinata */
+  PImage img;
   
   public Hinata()
   {

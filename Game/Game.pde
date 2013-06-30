@@ -1,6 +1,5 @@
 // Ce fichier est appelé en premier et contient toute la partie principale du programme !
 
-
 Hinata hinata; // Personnage principal
 
 // Cette fonction est appelée au lancement du programme
